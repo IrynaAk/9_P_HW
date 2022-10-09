@@ -1,0 +1,3 @@
+import qns
+
+qns.choice()
